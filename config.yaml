@@ -1,0 +1,4 @@
+directories:
+  - /var/lib/containers/storage/volumes/etc-salt/_data/master.d
+  - /var/lib/containers/storage/volumes/etc-rhn/_data
+log_file: /var/log/files_watcher/files_watcher.log

@@ -1,0 +1,3 @@
+directories:
+  - /path/to/watch
+log_file: /var/log/files_watcher/files_watcher.log
